@@ -27,7 +27,8 @@ These work in **OpenCode only**.
 
 | Agent | Usage | Description | Source |
 |---|---|---|---|
-| [`orchestrator`](agents/orchestrator.md), [`flash-worker`](agents/flash-worker.md) | `plan`, `subagents` | `orchestrator` plans, delegates all execution and reviews the reports. `flash-worker` is one of its subagents, for coding, file edits and tests. | DIY |
+| [`orchestrator`](agents/orchestrator.md), [`worker`](agents/worker.md) | `plan`, `subagents` | `orchestrator` plans, delegates all execution and reviews the reports. `worker` is one of its subagents, for coding, file edits and tests. You [choose its model](.opencode/INSTALL.md#models) during installation. | DIY |
+| `explore` | `explore` | Searches and reads code or web sources without editing files. `orchestrator` uses it too. This project only [sets its model](.opencode/INSTALL.md#models). | OpenCode (built-in) |
 
 ## 📜 Scripts
 

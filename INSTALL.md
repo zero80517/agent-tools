@@ -62,7 +62,7 @@ The steps depend on the harness: [Claude Code](.claude/INSTALL.md#superpowers) Â
 
 ## 4. Install the agents (OpenCode only)
 
-See [OpenCode](.opencode/INSTALL.md#agents).
+See [OpenCode](.opencode/INSTALL.md#agents). This includes [choosing the models](.opencode/INSTALL.md#models) for `worker` and `explore`.
 
 ## Finish
 
