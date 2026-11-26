@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "name": "git-commit",
+      "repo": "https://github.com/github/awesome-copilot",
+      "path": "skills/git-commit",
+      "ref": "main",
+      "commit": "a8940549dcf7258a2cdaa0b7fc9a9ac7fceec466"
+    },
+    {
+      "name": "grill-me",
+      "repo": "https://github.com/mattpocock/skills",
+      "path": "skills/productivity/grill-me",
+      "ref": "main",
+      "commit": "fcf0071560d32913c9d4f820e0d7ca467c881619"
+    },
+    {
+      "name": "grill-with-docs",
+      "repo": "https://github.com/mattpocock/skills",
+      "path": "skills/engineering/grill-with-docs",
+      "ref": "main",
+      "commit": "447ca70872026d5b79d6073a546dac082117fed7"
+    },
+    {
+      "name": "grilling",
+      "repo": "https://github.com/mattpocock/skills",
+      "path": "skills/productivity/grilling",
+      "ref": "main",
+      "commit": "7739eaed7f8f3915437a8def198a6d0d7206dbc7"
+    },
+    {
+      "name": "domain-modeling",
+      "repo": "https://github.com/mattpocock/skills",
+      "path": "skills/engineering/domain-modeling",
+      "ref": "main",
+      "commit": "2b7ab8c9471fad3fca0a9c0c9e1f52153408172b"
+    }
+  ],
+  "external": [
+    {
+      "name": "superpowers",
+      "repo": "https://github.com/obra/superpowers"
+    }
+  ]
+}

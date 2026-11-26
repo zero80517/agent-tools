@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# Never convert line endings in skills, so third-party copies stay identical to upstream.
+skills/** -text
